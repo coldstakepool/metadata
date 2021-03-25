@@ -3,5 +3,6 @@
 "description": "Cold Pool is a Stake Pool on the Cardano Cryptocurrency Blockchain. It is run by Cole Butler, who runs the 'Cardano (ADA) Stake Pools' Facebook group. Ten-percent of pool profits are donated to the Pulmonary Hypertension Association.",
 "ticker": "COLD",
 "homepage": "https://www.facebook.com/Cold-Pool-Cardano-Stake-Pool-105771198275042"
+"extended": "https://raw.githubusercontent.com/coldstakepool/metadata/main/extendedMetaData.json"
 }
 
