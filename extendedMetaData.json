@@ -1,1 +1,30 @@
-
+{
+    "how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
+    "info": {
+        "location": "Hot Springs, Arkansas",
+        "social": {
+            "twitter_handle": "@ColdPool1",
+            "telegram_handle": "@Cold_Pool",
+            "facebook_handle": "https://www.facebook.com/ColdStakePool",
+            "youtube_handle": "https://www.youtube.com/channel/UCGJi6JBjPO-IR8r8VrYmQCw",
+            "instagram_handle": "@coldstakepool",
+            "github_handle": "https://github.com/coldstakepool"
+        },
+        "about": {
+            "me": "A stake pool that supports Heart Disease.",
+            "server": "Reliably built, with infrastructure expanding with delegation.",
+            "company": "Community focused, clean, and project driven."
+        },
+        "rss": "http(s) url to valid RSS feed"
+    },
+    "my-pool-ids": {
+        "0": "909929ee00e75d50c192e36d9b8027fec5ef7d2a3debf6807a9f95c8"
+    },
+    "when-satured-then-recommend": {
+        "0": "pool1grgycym8cf0xmgjjr7gx7udmkpu93hqaygysy5myx6ghx8dvl5r",
+        "1": "pool1687dfgyljnhamx05h6r04zdllv68exatshhd0jny4q56skc0926"
+    },
+    "telegram-admin-handle": {
+        "0": "Cold_Pool"
+    },
+}
