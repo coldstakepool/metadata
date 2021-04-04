@@ -1,6 +1,8 @@
 {
     "how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
     "info": {
+        "url_png_icon_64x64": "https://i.ibb.co/VmB9qQS/LOGO.png,
+        "url_png_logo": "https://i.ibb.co/VmB9qQS/LOGO.png",
         "location": "Hot Springs, Arkansas",
         "social": {
             "twitter_handle": "@ColdPool1",
